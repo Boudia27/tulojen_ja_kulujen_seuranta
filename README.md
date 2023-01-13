@@ -15,4 +15,4 @@ ctrl-c
 ## Tätä projektia varten tarvitaan seuraavat ympäristömuuttujat: "DETA_KEY".
 
 ## Palaute
-Ota rohkeasti yhteyttä minuun osoitteeseen boudia1978@hotmail.com, jos sinulla on palautetta.
+Ota rohkeasti yhteyttä minuun osoitteeseen boudia1978@hotmail.com, jos sinulla on palautetta
